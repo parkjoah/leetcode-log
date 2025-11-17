@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parkjoah/leetcode-log/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/parkjoah/leetcode-log/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parkjoah/leetcode-log/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Two Pointers
 |  |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parkjoah/leetcode-log/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/parkjoah/leetcode-log/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
