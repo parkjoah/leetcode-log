@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parkjoah/leetcode-log/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parkjoah/leetcode-log/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/parkjoah/leetcode-log/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/parkjoah/leetcode-log/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parkjoah/leetcode-log/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/parkjoah/leetcode-log/tree/master/0136-single-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/parkjoah/leetcode-log/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/parkjoah/leetcode-log/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/parkjoah/leetcode-log/tree/master/0189-rotate-array) |
 ## Bit Manipulation
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parkjoah/leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/parkjoah/leetcode-log/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
