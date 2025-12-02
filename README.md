@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parkjoah/leetcode-log/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/parkjoah/leetcode-log/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/parkjoah/leetcode-log/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/parkjoah/leetcode-log/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parkjoah/leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/parkjoah/leetcode-log/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/parkjoah/leetcode-log/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/parkjoah/leetcode-log/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
