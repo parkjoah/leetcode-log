@@ -50,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/parkjoah/leetcode-log/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/parkjoah/leetcode-log/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/parkjoah/leetcode-log/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/parkjoah/leetcode-log/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parkjoah/leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/parkjoah/leetcode-log/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/parkjoah/leetcode-log/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/parkjoah/leetcode-log/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parkjoah/leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/parkjoah/leetcode-log/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/parkjoah/leetcode-log/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/parkjoah/leetcode-log/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
