@@ -1,8 +1,3 @@
-/**
- * @param {number} dividend
- * @param {number} divisor
- * @return {number}
- */
 
 /**
  * @param {number} dividend
