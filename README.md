@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/parkjoah/leetcode-log/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/parkjoah/leetcode-log/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/parkjoah/leetcode-log/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/parkjoah/leetcode-log/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/parkjoah/leetcode-log/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/parkjoah/leetcode-log/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/parkjoah/leetcode-log/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parkjoah/leetcode-log/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/parkjoah/leetcode-log/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
