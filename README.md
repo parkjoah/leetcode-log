@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/parkjoah/leetcode-log/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/parkjoah/leetcode-log/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/parkjoah/leetcode-log/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/parkjoah/leetcode-log/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/parkjoah/leetcode-log/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/parkjoah/leetcode-log/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/parkjoah/leetcode-log/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/parkjoah/leetcode-log/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/parkjoah/leetcode-log/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/parkjoah/leetcode-log/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/parkjoah/leetcode-log/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/parkjoah/leetcode-log/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
