@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/parkjoah/leetcode-log/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/parkjoah/leetcode-log/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/parkjoah/leetcode-log/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/parkjoah/leetcode-log/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/parkjoah/leetcode-log/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/parkjoah/leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parkjoah/leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/parkjoah/leetcode-log/tree/master/0367-valid-perfect-square) |
 ## Matrix
 |  |
 | ------- |
