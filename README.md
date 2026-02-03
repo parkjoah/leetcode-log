@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/parkjoah/leetcode-log/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/parkjoah/leetcode-log/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parkjoah/leetcode-log/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/parkjoah/leetcode-log/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/parkjoah/leetcode-log/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/parkjoah/leetcode-log/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/parkjoah/leetcode-log/tree/master/0383-ransom-note) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/parkjoah/leetcode-log/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/parkjoah/leetcode-log/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/parkjoah/leetcode-log/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/parkjoah/leetcode-log/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/parkjoah/leetcode-log/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/parkjoah/leetcode-log/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/parkjoah/leetcode-log/tree/master/0383-ransom-note) |
