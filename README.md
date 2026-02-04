@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/parkjoah/leetcode-log/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/parkjoah/leetcode-log/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/parkjoah/leetcode-log/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/parkjoah/leetcode-log/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/parkjoah/leetcode-log/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/parkjoah/leetcode-log/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
